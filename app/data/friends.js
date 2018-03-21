@@ -2,7 +2,7 @@
 var friends = [
     {
         "name" : "Keanu Reeves",
-        "photo" : "https://www.biography.com/.image/t_share/MTQ1NDY1NDI1OTM1ODA0MTc3/britney-spears---full-episode.jpg",
+        "photo" : "https://i0.wp.com/heightline.com/wp-content/uploads/Keanu-Reeves-Featured.jpg?resize=1021%2C580&ssl=1",
         "scores" : [
             3,
             4,
